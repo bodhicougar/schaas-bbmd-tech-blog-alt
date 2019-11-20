@@ -179,6 +179,15 @@ export default ({ title, authorName }) => (
             <FaGithub /> <span>Github</span>
           </StyledHref>
         </p>
+        <p>
+          <StyledHref
+            href="https://twitter.com/BBMediaDesign"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaGithub /> <span>Twitter</span>
+          </StyledHref>
+        </p>
       </div>
     </MenuWrapper>
   </Sidebar>
