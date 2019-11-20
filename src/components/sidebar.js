@@ -146,7 +146,7 @@ export default ({ title, authorName }) => (
       <div>
         <p>
           <StyledLink to="/">
-            <FaHome /> <span>Home</span>
+            <FaHome /> <span>Intro</span>
           </StyledLink>
         </p>
         <p>
@@ -163,7 +163,7 @@ export default ({ title, authorName }) => (
       <div>
         <p>
           <StyledHref
-            href="https://www.linkedin.com/in/vimalraj-selvam/"
+            href="https://www.linkedin.com/in/blackboxmd/"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -172,7 +172,7 @@ export default ({ title, authorName }) => (
         </p>
         <p>
           <StyledHref
-            href="https://github.com/email2vimalraj"
+            href="https://github.com/bodhicougar"
             target="_blank"
             rel="noopener noreferrer"
           >
